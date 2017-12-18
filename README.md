@@ -2,8 +2,10 @@
 ---
 ## Team Members
 
-*Mancilla Aguilar Alfredo M.
-*Martinez Barrozo Daniela A.
+*Mancilla Aguilar Alfredo Miguel
+
+*Martinez Barrozo Daniela Alejandra
+
 ---
 ## Description
  
@@ -25,4 +27,4 @@ Based on the Turtlebot Codes and tutorials in ROS.
 
 [Linear movement](https://youtu.be/TbKJC3mvNU0)
 
-[rotating](https://www.google.com)
+[rotating](https://youtu.be/4KH1MdgaaNM)
