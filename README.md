@@ -15,15 +15,14 @@ Based on the Turtlebot Codes and tutorials in ROS.
 
 ###Robot in Gazebo:
 
-![alt text](https://github.com/alfredo/Gazebo.png "Gazebo")
+![1](https://github.com/alfredo/Gazebo.png "Gazebo")
 
 ###Robot in Rviz
 
-![alt text](https://github.com/alfredo/Rviz.png "Rviz")
+![2](https://github.com/alfredo/Rviz.png "Rviz")
 
  ##Reference Videos:
 
 [Linear movement](https://youtu.be/TbKJC3mvNU0)
 
 [rotating](https://www.google.com)
-# IMT---350-ROBOTICS-II---2017-MINESWEEPER
