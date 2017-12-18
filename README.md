@@ -2,8 +2,8 @@
 ---
 ## Team Members
 
-   *Mancilla Aguilar Alfredo M.
-   *Martinez Barrozo Daniela A.
+*Mancilla Aguilar Alfredo M.
+*Martinez Barrozo Daniela A.
 ---
 ## Description
  
@@ -13,11 +13,11 @@ Based on the Turtlebot Codes and tutorials in ROS.
 ##Images
 ---
 
-###Robot in Gazebo:
+##Robot in Gazebo:
 
 ![1](https://github.com/alfredo/Gazebo.png "Gazebo")
 
-###Robot in Rviz
+##Robot in Rviz
 
 ![2](https://github.com/alfredo/Rviz.png "Rviz")
 
