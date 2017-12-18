@@ -15,11 +15,11 @@ Based on the Turtlebot Codes and tutorials in ROS.
 
 ##Robot in Gazebo:
 
-![1](https://github.com/alfredo/Gazebo.png "Gazebo")
+![1](https://github.com/alfredo/rover_ws/Gazebo.png "Gazebo")
 
 ##Robot in Rviz
 
-![2](https://github.com/alfredo/Rviz.png "Rviz")
+![2](https://github.com/alfredo/rover_ws/Rviz.png "Rviz")
 
  ##Reference Videos:
 
